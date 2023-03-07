@@ -1,0 +1,32 @@
+C:\Users\artto\source\repos\WeatherApp\bin\Debug\net6.0\WeatherApp.exe
+C:\Users\artto\source\repos\WeatherApp\bin\Debug\net6.0\WeatherApp.deps.json
+C:\Users\artto\source\repos\WeatherApp\bin\Debug\net6.0\WeatherApp.runtimeconfig.json
+C:\Users\artto\source\repos\WeatherApp\bin\Debug\net6.0\WeatherApp.dll
+C:\Users\artto\source\repos\WeatherApp\bin\Debug\net6.0\WeatherApp.pdb
+C:\Users\artto\source\repos\WeatherApp\obj\Debug\net6.0\WeatherApp.csproj.AssemblyReference.cache
+C:\Users\artto\source\repos\WeatherApp\obj\Debug\net6.0\WeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artto\source\repos\WeatherApp\obj\Debug\net6.0\WeatherApp.AssemblyInfoInputs.cache
+C:\Users\artto\source\repos\WeatherApp\obj\Debug\net6.0\WeatherApp.AssemblyInfo.cs
+C:\Users\artto\source\repos\WeatherApp\obj\Debug\net6.0\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\artto\source\repos\WeatherApp\obj\Debug\net6.0\WeatherApp.dll
+C:\Users\artto\source\repos\WeatherApp\obj\Debug\net6.0\refint\WeatherApp.dll
+C:\Users\artto\source\repos\WeatherApp\obj\Debug\net6.0\WeatherApp.pdb
+C:\Users\artto\source\repos\WeatherApp\obj\Debug\net6.0\WeatherApp.genruntimeconfig.cache
+C:\Users\artto\source\repos\WeatherApp\obj\Debug\net6.0\ref\WeatherApp.dll
+C:\Users\artto\source\repos\WeatherApp\bin\Debug\net6.0\WeatherApp.dll.config
+E:\Desktop\Programming\Tasks\20. WeatherApp\WeatherApp\bin\Debug\net6.0\WeatherApp.exe
+E:\Desktop\Programming\Tasks\20. WeatherApp\WeatherApp\bin\Debug\net6.0\WeatherApp.dll.config
+E:\Desktop\Programming\Tasks\20. WeatherApp\WeatherApp\bin\Debug\net6.0\WeatherApp.deps.json
+E:\Desktop\Programming\Tasks\20. WeatherApp\WeatherApp\bin\Debug\net6.0\WeatherApp.runtimeconfig.json
+E:\Desktop\Programming\Tasks\20. WeatherApp\WeatherApp\bin\Debug\net6.0\WeatherApp.dll
+E:\Desktop\Programming\Tasks\20. WeatherApp\WeatherApp\bin\Debug\net6.0\WeatherApp.pdb
+E:\Desktop\Programming\Tasks\20. WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.csproj.AssemblyReference.cache
+E:\Desktop\Programming\Tasks\20. WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Programming\Tasks\20. WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.AssemblyInfoInputs.cache
+E:\Desktop\Programming\Tasks\20. WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.AssemblyInfo.cs
+E:\Desktop\Programming\Tasks\20. WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.csproj.CoreCompileInputs.cache
+E:\Desktop\Programming\Tasks\20. WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.dll
+E:\Desktop\Programming\Tasks\20. WeatherApp\WeatherApp\obj\Debug\net6.0\refint\WeatherApp.dll
+E:\Desktop\Programming\Tasks\20. WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.pdb
+E:\Desktop\Programming\Tasks\20. WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.genruntimeconfig.cache
+E:\Desktop\Programming\Tasks\20. WeatherApp\WeatherApp\obj\Debug\net6.0\ref\WeatherApp.dll
